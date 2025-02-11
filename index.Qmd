@@ -14,9 +14,9 @@ format:
     code-summary: "Show code"
     code-overflow: wrap
     title-slide-attributes:
-     data-background-position: "top center"
+     data-background-position: "50% 92%" 
      data-background-image: "figures/openqr.png"
-     data-background-size: "16%"
+     data-background-size: "10%"
 execute:
   echo: true
   output: true
