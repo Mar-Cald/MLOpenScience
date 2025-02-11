@@ -25,7 +25,7 @@ editor:
     wrap: 72
 ---
 
-## 20 anni di sventura?
+# 20 anni di sventura?
 
 ::: {style="text-align: center;"}
 <a href="https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False" target=_blank><img src="figures/ioannidis2005.png" style="max-width:100%"/></a>
