@@ -219,6 +219,7 @@ load("plots.RData")
 ggPreregistered
 ```
 
+
 ## Quanta ne stiamo facendo?
 
 ```{r, echo=F}
