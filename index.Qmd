@@ -278,11 +278,6 @@ ggOpenCodeProp
 
 ## Esempi (nel bene e nel male) 2/2
 
--   Error Correction Behaviour •
-    <a href="https://osf.io/wn4vx/" target=_blank>OSF proj</a> •
-    <a href="https://osf.io/preprints/psyarxiv/wegc5_v1" target=_blank>PsyArXiv</a>
-    <img src="figures/openaccess.png" style="max-width:50px; max-height:50px;"/><img src="figures/preregistered.png" style="max-width:50px"/><img src="figures/opencode.png" style="max-width:50px"/><img src="figures/opendata.png" style="max-width:50px; opacity:0.35"/><img src="figures/openmaterials.png" style="max-width:50px; opacity:0.35"/>
-
 -   Italian Validation of BESSI •
     <a href="https://doi.org/10.17605/OSF.IO/VYZPN" target=_blank>OSF
     proj</a> •
