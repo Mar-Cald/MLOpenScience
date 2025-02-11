@@ -15,7 +15,7 @@ format:
     code-overflow: wrap
     title-slide-attributes:
      data-background-position: "top center"
-     data-background-image: "figures/openqr.svg"
+     data-background-image: "figures/openqr.png"
      data-background-size: "16%"
 execute:
   echo: true
