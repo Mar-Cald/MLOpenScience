@@ -269,14 +269,15 @@ ggOpenCodeProp
     <a href="https://osf.io/hp9nk/" target=_blank>OSF proj</a>
     <img src="figures/preregistered.png" style="max-width:50px"/><img src="figures/opencode.png" style="max-width:50px"/><img src="figures/openmaterials.png" style="max-width:50px"/><img src="figures/openaccess.png" style="max-width:50px; max-height:50px;"/>
 
+
+## Esempi (nel bene e nel male) 2/2
+
 -   Cognitive Stress Reappraisal •
     <a href="https://osf.io/q47e9/?view_only=d50449bb1ea64245b6c71541ac6d7379" target=_blank>OSF
     proj</a> •
     <a href="https://osf.io/p6e5j/?view_only=be40480e044d4929b1aac10a2df6ec6c" target=_blank>OSF
     reg</a>
     <img src="figures/preregistered.png" style="max-width:50px"/><img src="figures/opencode.png" style="max-width:50px"/><img src="figures/opendata.png" style="max-width:50px; opacity:0.35"/><img src="figures/openmaterials.png" style="max-width:50px; opacity:0.35"/><img src="figures/openaccess.png" style="max-width:50px; max-height:50px; opacity:0.35"/>
-
-## Esempi (nel bene e nel male) 2/2
 
 -   Italian Validation of BESSI •
     <a href="https://doi.org/10.17605/OSF.IO/VYZPN" target=_blank>OSF
