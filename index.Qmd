@@ -374,4 +374,4 @@ ggOpenCodeProp
 :::
 ::::
 
-# 3) Chi fa cosa?
+# 3) Chi fa cosa ?
